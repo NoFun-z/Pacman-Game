@@ -1,0 +1,191 @@
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\bin\x86\Debug\App.xbf
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\bin\x86\Debug\MainPage.xbf
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\bin\x86\Debug\GameInterface.exe
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\bin\x86\Debug\GameInterface.pdb
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\bin\x86\Debug\resources.pri
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\bin\x86\Debug\AppxManifest.xml
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\bin\x86\Debug\System.Runtime.dll
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\App.g.i.cs
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\App.g.cs
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\MainPage.g.cs
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\App.xaml
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\MainPage.xaml
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\App.xbf
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\MainPage.xbf
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\GameInterface.csproj.CopyComplete
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\GameInterface.exe
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\GameInterface.pdb
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\priconfig.xml
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\resources.resfiles
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\pri.resfiles
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\qualifiers.txt
+C:\
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\melis\Documents\Teaching_Fall22\UWPGame\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\GameInterface.exe
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\GameInterface.pdb
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\bin\x86\Debug\App.xbf
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\bin\x86\Debug\MainPage.xbf
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\bin\x86\Debug\GameInterface.exe
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\bin\x86\Debug\GameInterface.pdb
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\bin\x86\Debug\resources.pri
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\bin\x86\Debug\AppxManifest.xml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\bin\x86\Debug\System.Runtime.dll
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\GameInterface.csprojAssemblyReference.cache
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\App.g.i.cs
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\App.g.cs
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\MainPage.g.cs
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\App.xaml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\MainPage.xaml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\App.xbf
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\MainPage.xbf
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\GameInterface.csproj.CopyComplete
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\priconfig.xml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\resources.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\pri.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\qualifiers.txt
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\bin\x86\Debug\GameLibrary.dll
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\bin\x86\Debug\GameLibrary.pdb
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\UWPGame\GameInterface\bin\x86\Debug\GameLibrary.pri
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\bin\x86\Debug\App.xbf
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\bin\x86\Debug\MainPage.xbf
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\bin\x86\Debug\GameInterface.exe
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\bin\x86\Debug\GameInterface.pdb
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\bin\x86\Debug\resources.pri
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\bin\x86\Debug\AppxManifest.xml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\bin\x86\Debug\System.Runtime.dll
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\bin\x86\Debug\GameLibrary.dll
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\bin\x86\Debug\GameLibrary.pdb
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\bin\x86\Debug\GameLibrary.pri
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\GameInterface.csprojAssemblyReference.cache
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\App.g.i.cs
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\App.g.cs
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\MainPage.g.cs
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\App.xaml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\MainPage.xaml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\App.xbf
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\MainPage.xbf
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\GameInterface.csproj.CopyComplete
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\GameInterface.exe
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\GameInterface.pdb
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\priconfig.xml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\resources.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\pri.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\qualifiers.txt
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall22\22F_1621 Data Structures\Labs\UWPGame\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\bin\x86\Debug\App.xbf
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\bin\x86\Debug\MainPage.xbf
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\bin\x86\Debug\GameInterface.exe
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\bin\x86\Debug\GameInterface.pdb
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\bin\x86\Debug\resources.pri
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\bin\x86\Debug\AppxManifest.xml
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\bin\x86\Debug\System.Runtime.dll
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\bin\x86\Debug\GameLibrary.dll
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\bin\x86\Debug\GameLibrary.pdb
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\bin\x86\Debug\GameLibrary.pri
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\App.g.i.cs
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\App.g.cs
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\MainPage.g.cs
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\App.xaml
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\MainPage.xaml
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\App.xbf
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\MainPage.xbf
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\GameInterface.csproj.CopyComplete
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\GameInterface.exe
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\GameInterface.pdb
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\priconfig.xml
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\resources.resfiles
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\pri.resfiles
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\qualifiers.txt
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json

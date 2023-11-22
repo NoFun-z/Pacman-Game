@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\PC utilities\\Study files\\.Final Term\\.PROG1621\\Labs\\Lab 1\\UWPGame\\GameInterface\\GameInterface.csproj": {}
+  },
+  "projects": {
+    "C:\\PC utilities\\Study files\\.Final Term\\.PROG1621\\Labs\\Lab 1\\UWPGame\\GameInterface\\GameInterface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PC utilities\\Study files\\.Final Term\\.PROG1621\\Labs\\Lab 1\\UWPGame\\GameInterface\\GameInterface.csproj",
+        "projectName": "GameInterface",
+        "projectPath": "C:\\PC utilities\\Study files\\.Final Term\\.PROG1621\\Labs\\Lab 1\\UWPGame\\GameInterface\\GameInterface.csproj",
+        "packagesPath": "C:\\Users\\NoFun\\.nuget\\packages\\",
+        "outputPath": "C:\\PC utilities\\Study files\\.Final Term\\.PROG1621\\Labs\\Lab 1\\UWPGame\\GameInterface\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NoFun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {
+              "C:\\PC utilities\\Study files\\.Final Term\\.PROG1621\\Labs\\Lab 1\\UWPGame\\GameLibrary\\GameLibrary.csproj": {
+                "projectPath": "C:\\PC utilities\\Study files\\.Final Term\\.PROG1621\\Labs\\Lab 1\\UWPGame\\GameLibrary\\GameLibrary.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.12, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\PC utilities\\Study files\\.Final Term\\.PROG1621\\Labs\\Lab 1\\UWPGame\\GameLibrary\\GameLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PC utilities\\Study files\\.Final Term\\.PROG1621\\Labs\\Lab 1\\UWPGame\\GameLibrary\\GameLibrary.csproj",
+        "projectName": "GameLibrary",
+        "projectPath": "C:\\PC utilities\\Study files\\.Final Term\\.PROG1621\\Labs\\Lab 1\\UWPGame\\GameLibrary\\GameLibrary.csproj",
+        "packagesPath": "C:\\Users\\NoFun\\.nuget\\packages\\",
+        "outputPath": "C:\\PC utilities\\Study files\\.Final Term\\.PROG1621\\Labs\\Lab 1\\UWPGame\\GameLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NoFun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.8, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

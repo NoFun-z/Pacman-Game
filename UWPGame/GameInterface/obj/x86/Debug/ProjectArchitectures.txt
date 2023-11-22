@@ -1,0 +1,2 @@
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameInterface\GameInterface.csproj;x86
+C:\PC utilities\Study files\.Final Term\.PROG1621\Labs\Lab 1\UWPGame\GameLibrary\GameLibrary.csproj;x86
